@@ -4,12 +4,13 @@
 public class Main {
     public static void main(String[] args)
     {
-
-        String smile = ".October.";
-        smile = encryptString(smile, 2, 3);
-        System.out.println(smile);
-        smile = decryptString(smile, 2);
-        System.out.println(smile);
+        
+        //Tester code
+        //String smile = ".October.";
+        //smile = encryptString(smile, 2, 3);
+        //System.out.println(smile);
+        //smile = decryptString(smile, 2);
+        //System.out.println(smile);
 
 
     }
